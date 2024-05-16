@@ -85,7 +85,11 @@ using the summaries and thumbnails uploaded to S3.
 ![Alt "Step Funvtion"](https://github.com/ak-699/visual-insight-generator/blob/source/stepfunctions_graph.png)
 
 ## Appendix:
+
+### Sample Summary - 1
 ![Alt "Sample Summary"](https://github.com/ak-699/visual-insight-generator/blob/source/sreenshot-1.png)
+
+### Sample Summary - 2
 ![Alt "Sample Summary"](https://github.com/ak-699/visual-insight-generator/blob/source/screenshot-2.png)
 
 
